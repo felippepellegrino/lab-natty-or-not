@@ -12,7 +12,7 @@ Iniciei a geração da imagem utilizando um prompt detalhado para obter um cená
 ## 🚀 Resultados
 A imagem transmite uma sensação de tranquilidade e imersão, perfeita para projetos visuais, wallpapers ou até inspiração artística.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Foi um experimento interessante ver como a IA pode gerar imagens altamente estéticas com apenas uma descrição bem feita. Isso abre diversas possibilidades para criação de conteúdo original.
 
 ![paisagem_invernal](https://github.com/user-attachments/assets/20b8c8c2-247d-4445-944e-0c5d5fa1a2c8)
